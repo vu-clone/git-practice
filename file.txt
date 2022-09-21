@@ -7,3 +7,5 @@ if something {
 }
 this is two
 THIS IS THE NEW LINE FROM BRANCH TWO
+THIS IS THE NEW LINE FROM BRANCH ONE
+
