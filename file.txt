@@ -1,4 +1,8 @@
 Hello
 Two
 Three
+<<<<<<< HEAD
 this is one
+=======
+this is two
+>>>>>>> two
