@@ -2,8 +2,9 @@
 
 using namespace std;
 
+extern void print(const string&);
 int main()
 {
-    cout << "Hello world" << endl;
+    print("file.txt");
     return 0;
 }
