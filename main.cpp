@@ -26,8 +26,9 @@ std::ostream& operator<<(std::ostream& os, const json& j)
 extern void print(const string&);
 int main()
 {
-    //print("file.txt");
+    print("file.txt");
+    cout << "\nPrint Json Object:" << endl;
     json j("key", "value");
-    cout << j.value << endl;
+    cout << j << endl;
     return 0;
 }
